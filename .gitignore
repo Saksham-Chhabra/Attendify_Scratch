@@ -1,0 +1,7 @@
+data
+node_modules
+*.env
+1_OpenCV
+3_Flask_basics
+4_Flask_App
+facerecognition_flask
